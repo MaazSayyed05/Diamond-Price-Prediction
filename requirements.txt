@@ -1,0 +1,8 @@
+pandas
+seaborn
+numpy
+flask
+matplotlib
+
+-e .
+# -e . it will trigger setup.py after running this file 
