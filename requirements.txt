@@ -3,6 +3,7 @@ seaborn
 numpy
 flask
 matplotlib
+scikit-learn
 
 -e .
 # -e . it will trigger setup.py after running this file 
